@@ -12,6 +12,6 @@ The keys used to access beatmaps dictionary in the object are the nameOfOsuFile 
 If this problem exists, consider changing the key used to a unique attribute.
 
 # Support
-If you find this useful, please support me to help me get a better laptop! It's a pain in the butt to program using this crappy laptop but I can't afford to buy one cuz I'm still a student :(
+If you find this useful, please support me to help me get a better laptop!
 
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://paypal.me/CookieHoodie/0USD)
